@@ -20,34 +20,17 @@ Results-driven **.NET Developer** with 2+ years of experience building scalable 
 ### 🛠️ **Tech Stack**
 
 **Languages:**  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+C# JavaScript SQL HTML5 CSS3
 
 **Frameworks & Libraries:**  
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=entity-framework&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+.NET Core ASP.NET MVC Angular Entity Framework Bootstrap
 
 **Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-### 📊 **GitHub Stats**
-
-![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranay9903&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay9903&layout=compact&theme=radical)
+Git VS Code Visual Studio SQL Server Postman
 
 ### 🏆 **Featured Projects**
 
-#### [SLAS - Smart Leave Application System](https://github.com/Pranay9903/SLAS)
+#### [SLAS - Smart Leave Application System](https://github.com/Pranay9903/SLAC)
 > Multi-level approval workflow with automated notifications, leave balance tracking, and PDF report generation.
 > 
 > `ASP.NET MVC` `C#` `SQL Server` `Bootstrap` `JavaScript`
@@ -57,13 +40,13 @@ Results-driven **.NET Developer** with 2+ years of experience building scalable 
 > 
 > `ASP.NET MVC` `C#` `HTML5 Canvas` `JavaScript` `SQL Server`
 
-#### [Personal Portfolio](https://github.com/Pranay9903/Personal-portfolio)
+#### [Personal Portfolio](https://github.com/Pranay9903/pranay-kadam)
 > Modern, responsive portfolio showcasing my projects and professional journey.
 > 
 > `HTML5` `CSS3` `JavaScript` `Bootstrap`
 
 ### 📫 **Let's Connect!**
-- LinkedIn: [Pranay Kadam](https://www.linkedin.com/in/pranay-kadam-594147243)
+- LinkedIn: [Pranay Kadam](https://www.linkedin.com/in/pranay-kadam-594147243pp)
 - Email: PranayKadam994@gmail.com
 - Location: Thane, Maharashtra, India
 
