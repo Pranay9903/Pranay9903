@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pranay Kadam
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="young boy coding">
+<p align="right" margin-top="500px">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="young boy coding">
 </p>
 
 ## 🚀 **.NET Developer | HealthTech & InsurTech Specialist**
