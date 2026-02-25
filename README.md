@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Pranay Kadam
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-top: 300px;">
-
 ## 🚀 **.NET Developer | HealthTech & InsurTech Specialist**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-kadam-594147243pp)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranay9903)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:PranayKadam994@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://pranay9903.github.io/pranay-kadam)
 
 Results-driven **.NET Developer** with 2+ years of experience building scalable web applications in **HealthTech and InsurTech** domains. Passionate about creating efficient, secure, and user-friendly solutions that make a difference.
+
+<p>
+<img align="right" alt="Young C# Developer" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" style="margin-top: 300px;">
+</p>
 
 ### 💼 **What I Do**
 - 🌱 Learning **Advanced Angular & Microservices Architecture**
@@ -20,13 +21,13 @@ Results-driven **.NET Developer** with 2+ years of experience building scalable 
 ### 🛠️ **Tech Stack**
 
 **Languages:**  
-C#  JavaScript  SQL  HTML5  CSS3
+>`C#`  `JavaScript`  `SQL`  `HTML5`  `CSS3`
 
 **Frameworks & Libraries:**  
-.NETCore  ASP.NET  MVC  Angular  EntityFramework  Bootstrap
+>`.NETCore`  `ASP.NET`  `MVC`  `Angular`  `EntityFramework`  `Bootstrap`
 
 **Tools & Platforms:**  
-Git  VSCode  VisualStudio  SQL-Server  Postman
+>`Git`  `VSCode`  `VisualStudio`  `SQL-Server`  `Postman`
 
 ### 🏆 **Featured Projects**
 
