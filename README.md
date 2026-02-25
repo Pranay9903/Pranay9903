@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Pranay Kadam
 
-<p align="right" margin-top="500px">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="young boy coding">
-</p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-top: 300px;">
 
 ## 🚀 **.NET Developer | HealthTech & InsurTech Specialist**
 
@@ -22,13 +20,13 @@ Results-driven **.NET Developer** with 2+ years of experience building scalable 
 ### 🛠️ **Tech Stack**
 
 **Languages:**  
-C# JavaScript SQL HTML5 CSS3
+C#  JavaScript  SQL  HTML5  CSS3
 
 **Frameworks & Libraries:**  
-.NET Core ASP.NET MVC Angular Entity Framework Bootstrap
+.NETCore  ASP.NET  MVC  Angular  EntityFramework  Bootstrap
 
 **Tools & Platforms:**  
-Git VS Code Visual Studio SQL Server Postman
+Git  VSCode  VisualStudio  SQL-Server  Postman
 
 ### 🏆 **Featured Projects**
 
